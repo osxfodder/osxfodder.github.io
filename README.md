@@ -1,4 +1,4 @@
 osxfodder.github.io
 ===================
 
-OSX blog
+Yet another OSX blog
